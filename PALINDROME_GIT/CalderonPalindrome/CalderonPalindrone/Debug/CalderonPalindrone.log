@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CalderonPalindrone.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  StringQueueClass.cpp
+  StackClass.cpp
+  Source.cpp
+s:\cis-243\projects\palindrome\calderonpalindrome\calderonpalindrone\source.cpp(236): warning C4018: '<': signed/unsigned mismatch
+  QueueClass.cpp
+  Generating Code...
+  CalderonPalindrone.vcxproj -> S:\CIS-243\Projects\PALINDROME\CalderonPalindrome\Debug\CalderonPalindrome.exe
